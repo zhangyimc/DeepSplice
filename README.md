@@ -19,10 +19,6 @@ Alternative splicing (AS) is a regulated cellular process that enables the produ
 * [TensorFlow](https://www.tensorflow.org/)
 * [NumPy](http://www.numpy.org/)
 
-## Usage
-### I. Whole genome splice junction classification for human
-### II. Supervised learning with user-defined traning data
-
 ## Data
 Splice junction classification result with [intropolis](http://intropolis.rail.bio) : a tab-delimited text file ([download posSJ.txt](https://drive.google.com/drive/folders/0B3-yEUAQDhwBU2JGSnFDV2hfSEk?usp=sharing)) with fields
   1. chromosome
