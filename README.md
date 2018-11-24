@@ -29,8 +29,3 @@ Splice junction classification result with [intropolis](http://intropolis.rail.b
   6. number of samples in which junction was found
   7. number of reads mapping across junction in samples from field 6
   8. probability of being true
- 
-## Citation
-Zhang, Y., Liu, X., MacLeod, J.N. and Liu, J., 2016, December. DeepSplice: Deep classification of novel splice junctions revealed by RNA-seq. In *Bioinformatics and Biomedicine (BIBM), 2016 IEEE International Conference on* (pp. 330-333). IEEE.
-
-DOI: [https://doi.org/10.1109/BIBM.2016.7822541](https://doi.org/10.1109/BIBM.2016.7822541)

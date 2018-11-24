@@ -28,8 +28,3 @@ python DeepSplice_v0.10/PretrainedModelforHuman/DeepSplice_pretrained.py DeepSpl
 
 ### 3. Output
 DeepSplice outputs the file “DeepSplice_v0.10/TestData/predictionResult.txt”, which indicates the predicted label of class, 1 for positive and 0 for negative.
-
-## Citation
-Zhang, Y., Liu, X., MacLeod, J.N. and Liu, J., 2016, December. DeepSplice: Deep classification of novel splice junctions revealed by RNA-seq. In *Bioinformatics and Biomedicine (BIBM), 2016 IEEE International Conference on* (pp. 330-333). IEEE.
-
-DOI: [https://doi.org/10.1109/BIBM.2016.7822541](https://doi.org/10.1109/BIBM.2016.7822541)
