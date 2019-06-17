@@ -28,3 +28,10 @@ Splice junction classification result with [intropolis](http://intropolis.rail.b
   6. number of samples in which junction was found
   7. number of reads mapping across junction in samples from field 6
   8. probability of being true
+
+## Citation
+Zhang, Y., Liu, X., MacLeod, J. and Liu, J., 2018. Discerning novel splice junctions derived from RNA-seq alignment: a deep learning approach. *BMC genomics, 19*(1), p.971.
+
+DOI: [https://doi.org/10.1186/s12864-018-5350-1](https://doi.org/10.1186/s12864-018-5350-1)
+
+
