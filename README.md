@@ -8,6 +8,7 @@ Yi Zhang (yi dot zhang at uky dot edu)
 * Introduction
 * Prerequisites
 * Data
+* Citation
 ***
 
 ## Introduction
